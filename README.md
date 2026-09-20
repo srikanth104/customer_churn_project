@@ -1,5 +1,9 @@
 # Customer Churn Prediction
 
+## Demo 
+
+▶️ **[Watch the Customer Churn Prediction Project Demo](./demo/Demo.mp4)**
+
 ## 1. Project Overview
 
 This project builds an end-to-end **Customer Churn Prediction** solution for a telecom company using the IBM Telco Customer Churn dataset.
@@ -11,6 +15,7 @@ The project covers:
 **Business Problem → Data Understanding → Data Preparation → EDA → Feature Engineering → Model Training → Evaluation → Interpretation → Model Saving → REST API**
 
 ---
+
 
 ## 2. Project Structure
 
